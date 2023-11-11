@@ -10,4 +10,4 @@ Este es un portfolio creado con Html, Css, usando metodologia BEM.
  -[]
 
  ## Contratación
- Si quieres contratarme podes escribirme a CONTACTO.LUCASGABRIEL@GMAIL.COM para consultas.
+ Si quieres contratarme podes escribirme a contacto.lucasgabriel@gmail.com para consultas.
