@@ -1,7 +1,7 @@
 ## Descripción👇
 Este es un portfolio creado con Html, Css, usando metodologia BEM.
 
- ## Autor- 
+ ## Autor✒️ 
  **Gabriel Alejandro Lucas**
 
  *[Linkedin] (https://www.linkedin.com/in/gabriel-alejandro-lucas-ab607b292/)
